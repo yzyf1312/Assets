@@ -1,7 +1,7 @@
 {
-    "file-num": 37,
+    "file_num": 37,
     "repo": "Assets",
-    "file-list": {
+    "file_list": {
         "1": "/README.md",
         "2": "/css/Open-Sans.css",
         "3": "/css/Typora-Github.css",
