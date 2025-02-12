@@ -1,2 +1,2 @@
 # Assets
-Assets of website
+Some assets.
